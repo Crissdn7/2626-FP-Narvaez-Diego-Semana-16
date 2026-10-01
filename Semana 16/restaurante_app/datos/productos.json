@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Pizza",
+        "categoria": "comida",
+        "precio": 2.5
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Soda",
+        "categoria": "bebida",
+        "precio": 1.5
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Pollo frito",
+        "categoria": "comida",
+        "precio": 5.0
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Hamburguesa",
+        "categoria": "comida",
+        "precio": 3.0
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "identificador": "V001",
+        "usuario_id": "U001",
+        "producto_codigo": "P001",
+        "fecha": "2026-09-22"
+    },
+    {
+        "identificador": "V002",
+        "usuario_id": "U002",
+        "producto_codigo": "P004",
+        "fecha": "2026-09-22"
+    },
+    {
+        "identificador": "V003",
+        "usuario_id": "U002",
+        "producto_codigo": "P002",
+        "fecha": "2026-09-22"
+    },
+    {
+        "identificador": "V004",
+        "usuario_id": "U003",
+        "producto_codigo": "P003",
+        "fecha": "2026-10-01"
+    },
+    {
+        "identificador": "V005",
+        "usuario_id": "U003",
+        "producto_codigo": "P002",
+        "fecha": "2026-10-01"
+    }
+]
